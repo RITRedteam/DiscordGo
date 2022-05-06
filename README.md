@@ -1,3 +1,7 @@
+<h1 align="center"> DISCLAIMIER </h1> 
+THIS REPO IS NOT UP TO DATE. 
+GO HERE FOR THE LATEST RELEASE: https://github.com/emmaunel/DiscordGo
+
 <h1 align="center"> DiscordGo </h1> 
 <p align="center">
   <a>
